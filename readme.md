@@ -1,7 +1,9 @@
 ## JavaScript 30 Day Callenge 
 #### Just wanting some easy, low-stakes, daily JavaScript fun
 ---
-- [x] 01 - JavaScript Drum Kit
+
+( *completed* | *updated* )
+- [x] 01 - JavaScript Drum Kit (*10.02.21*)
 - [ ] 02 - JS and CSS Clock
 - [ ] 03 - CSS Variables
 - [ ] 04 - Array Cardio Day 1
