@@ -4,7 +4,7 @@
 
 ( *completed* | *updated* )
 - [x] 01 - JavaScript Drum Kit (*10.02.21*)
-- [ ] 02 - JS and CSS Clock
+- [x] 02 - JS and CSS Clock (*11.02.21*)
 - [ ] 03 - CSS Variables
 - [ ] 04 - Array Cardio Day 1
 - [ ] 05 - Flex Panel Gallery
